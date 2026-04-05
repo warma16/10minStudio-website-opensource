@@ -1,0 +1,20 @@
+{
+    "home":"首页",
+    "currentLangToken":"zh-cn",
+    "careerRequirement":"职位要求",
+    "careerContact":"应聘方式",
+    "careerContactQQPinDao":"点此进入聚贤堂子频道，进行应聘",
+    "careerContactQQGroup":"点此进入公招QQ群，进行应聘",
+    "careerContactMailTextPrefix":"发送邮件到：",
+    "careerContactMailTextSuffix":"，进行应聘",
+    "careerContactMailSubjectPrefix":"应聘，",
+    "careerContactMailSubjectSuffix":"职位",
+    "homeviewIntroductionOurWorks":"我们的作品",
+    "homeviewIntroductionOurWorksQuote":"每一个作品的出现，都是为了遇见特别的你",
+    "homeviewIntroductionAboutUs":"关于我们",
+    "homeviewIntroductionAboutUsQuote":"始于音游，不止音游。10min Studio 持续致力于优质游戏的探索与开发。",
+    "homeviewIntroductionOurTeam":"我们的团队",
+    "homeviewIntroductionOurTeamQuote":"对于每一个作品我们始终保持积极、乐观、热情的态度，我们很荣幸遇见每一个你。",
+    "homeviewIntroductionCareerAction":"大千世界，欢迎你的加入",
+    "homeviewIntroductionCareerActionBtn":"点击了解更多招聘信息"
+}

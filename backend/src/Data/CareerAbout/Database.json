@@ -1,0 +1,15 @@
+{
+    "careers":[
+        {
+            "name":"Unity开发",
+            "description":"Unity开发",
+            "requirements":[
+                "要有一定的C#编程基础"
+            ],
+            "summary":"Unity开发",
+            "tags":[
+                "Unity开发"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+  "members":[
+      {
+          "biliMid": "506856077",
+          "name": "Inokana",
+          "tags":[
+            "主创"
+          ],
+          "gravatarUrl":""
+        },
+        {
+          "biliMid": "8351435",
+          "name":"AiSS",
+          "tags":[
+            "曲师",
+            "翻译",
+            "谱师"
+          ],
+          "gravatarUrl":""
+        },
+      {
+          "biliMid":"152249993",
+          "name":"SlipperSoar",
+          "tags":[
+            "程序开发"
+          ],
+          "gravatarUrl":""
+      },
+      {
+        "biliMid": "506856077",
+        "name": "Inokana",
+        "tags":[
+          "主创"
+        ],
+        "gravatarUrl":""
+      },
+      {
+        "biliMid": "8351435",
+        "name":"AiSS",
+        "tags":[
+          "曲师",
+          "翻译",
+          "谱师"
+        ],
+        "gravatarUrl":""
+      },
+    {
+        "biliMid":"152249993",
+        "name":"SlipperSoar",
+        "tags":[
+          "程序开发"
+        ],
+        "gravatarUrl":""
+    },
+    {
+      "biliMid": "506856077",
+      "name": "Inokana",
+      "tags":[
+        "主创"
+      ],
+      "gravatarUrl":""
+    },
+    {
+      "biliMid": "8351435",
+      "name":"AiSS",
+      "tags":[
+        "曲师",
+        "翻译",
+        "谱师"
+      ],
+      "gravatarUrl":""
+    },
+  {
+      "biliMid":"152249993",
+      "name":"SlipperSoar",
+      "tags":[
+        "程序开发"
+      ],
+      "gravatarUrl":""
+  }
+  ]
+}
