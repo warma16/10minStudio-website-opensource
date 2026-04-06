@@ -1,0 +1,59 @@
+import { createRouter,createWebHashHistory,createWebHistory} from "vue-router";
+
+const routes=[
+    {
+        path:'/',
+        name:'home',
+        component:()=>import('./views/HomeView.vue'),
+    },
+    {
+        path:"/redirect",
+        name:'redirect',
+        component:()=>import('./views/OuterLinkRedirect.vue')
+    },
+    {
+        path:"/editArticle",
+        name:'editArticle',
+        component:()=>import('./views/EditArticle.vue')
+    },
+    {
+        path:"/showArticle",
+        name:'showArticle',
+        component:()=>import('./views/ShowArticle.vue')
+    },
+    {
+        path:"/login",
+        name:'login',
+        component:()=>import('./views/Login.vue')
+    },
+    {
+        path:"/createArticle",
+        name:'createArticle',
+        component:()=>import('./views/CreateArticle.vue')
+    },
+    {
+        path:"/share",
+        name:'share',
+        component:()=>import('./views/OutsideShare.vue')
+    },
+    {
+        path:"/career",
+        name:'Career',
+        component:()=>import('./views/Career.vue')
+    },
+    {
+        path:"/careerDetail",
+        name:'CareerDetail',
+        component:()=>import('./views/CareerDetail.vue')
+    },
+    {
+        path:"/staffs",
+        name:"Staff",
+        component:()=>import('./views/Staff.vue')
+    }
+]
+const router={
+    history:createWebHistory(process.env.BASE_URL),
+    routes
+}
+export default router
